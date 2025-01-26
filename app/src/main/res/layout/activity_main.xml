@@ -33,12 +33,12 @@
             android:textSize="22sp"/>
 
         <Button
-            android:id="@+id/negate"
+            android:id="@+id/parens"
             android:layout_width="0dp"
             android:layout_height="50dp"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:text="-"
+            android:text="()"
             android:textSize="24sp"/>
 
         <Button
@@ -145,7 +145,7 @@
             android:layout_height="50dp"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:text="--"
+            android:text="-"
             android:textSize="22sp"/>
 
     </LinearLayout>
